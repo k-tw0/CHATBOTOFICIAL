@@ -1,0 +1,29 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Cómo descargar Node JS?",
+      "respuesta": "Buscar en Google Node JS, el link de la página oficial: /U/Lhttps://nodejs.org/es/downloadL/U/",
+      "videos": [
+        "download-node.mp4"
+      ]
+    },
+    {
+      "texto": "¿Cómo iniciar un proyecto de Node JS?",
+      "respuesta": "Sigue los siguientes pasos para iniciar un proyecto con /BNodeB/:",
+      "videos": [
+        "inicir-projecto-node.mkv"
+      ],
+      "pasos": [
+        "/B1.-B/ Abre la consola o terminal.",
+        "/B2.-B/ Verifica la versión de Node JS utilizando el comando /Cnode -vC/.",
+        "/B3.-B/ Crea una carpeta con el nombre de tu proyecto.",
+        "/B4.-B/ Accede a la carpeta del proyecto utilizando el comando 'cd nombre-del-proyecto'.",
+        "/B5.-B/ Inicia el proyecto utilizando el comando 'npm init'."
+      ]
+    },
+    {
+      "texto": "¿Cuáles son las tendencias de diseño gráfico más populares actualmente?",
+      "respuesta": "Algunas tendencias de diseño gráfico populares actualmente incluyen el diseño minimalista, el uso de fuentes grandes y llamativas, el uso de ilustraciones personalizadas y el diseño centrado en la experiencia del usuario."
+    }
+  ]
+}
